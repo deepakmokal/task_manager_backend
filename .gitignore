@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+/node_modules
+
+# Optional npm cache directory
+.npm
+
+# Environment variables
+.env
+
+# Build artifacts
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS and Editor files
+.DS_Store # macOS
+.vscode/  # VS Code
+.idea/    # WebStorm/IntelliJ
